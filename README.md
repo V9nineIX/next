@@ -4,6 +4,8 @@
     ___NEXT_DATA___.props . ,
     ___NEXT_DATA___.initialReduxState
 
+!!!Warning 
+    When react reader or hydate need to set initail store via call api agian
 ---
 
 [![Next.js](https://assets.zeit.co/image/upload/v1538361091/repositories/next-js/next-js.png)](https://nextjs.org)
