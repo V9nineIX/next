@@ -550,6 +550,14 @@ function (_react_1$Component5) {
     key: "getInlineScriptSource",
     value: function getInlineScriptSource(documentProps) {
       var __NEXT_DATA__ = documentProps.__NEXT_DATA__;
+     
+      // re process  remove  un need data from  next_data
+      try{
+        __NEXT_DATA__.props = {};
+        __NEXT_DATA__.initialReduxState  = {};
+      }catch{
+
+      }
 
       try {
         var data = (0, _stringify.default)(__NEXT_DATA__);
