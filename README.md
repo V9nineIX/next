@@ -1,3 +1,11 @@
+---
+
+***THIS IS MODFIY VERSION  has clear data . 
+    ___NEXT_DATA___.props . ,
+    ___NEXT_DATA___.initialReduxState
+
+---
+
 [![Next.js](https://assets.zeit.co/image/upload/v1538361091/repositories/next-js/next-js.png)](https://nextjs.org)
 
 [![NPM version](https://img.shields.io/npm/v/next.svg)](https://www.npmjs.com/package/next)
@@ -13,6 +21,9 @@
 **The below readme is the documentation for the `canary` (prerelease) branch. To view the documentation for the latest stable Next.js version visit [nextjs.org/docs](https://nextjs.org/docs)**
 
 ---
+
+
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
